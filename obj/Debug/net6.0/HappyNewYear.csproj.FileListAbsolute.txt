@@ -1,0 +1,15 @@
+D:\1.FPT University\2023_Semester_5\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\bin\Debug\net6.0\HappyNewYear.exe
+D:\1.FPT University\2023_Semester_5\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\bin\Debug\net6.0\HappyNewYear.deps.json
+D:\1.FPT University\2023_Semester_5\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\bin\Debug\net6.0\HappyNewYear.runtimeconfig.json
+D:\1.FPT University\2023_Semester_5\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\bin\Debug\net6.0\HappyNewYear.dll
+D:\1.FPT University\2023_Semester_5\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\bin\Debug\net6.0\HappyNewYear.pdb
+D:\1.FPT University\2023_Semester_5\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net6.0\HappyNewYear.csproj.AssemblyReference.cache
+D:\1.FPT University\2023_Semester_5\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net6.0\HappyNewYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.FPT University\2023_Semester_5\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net6.0\HappyNewYear.AssemblyInfoInputs.cache
+D:\1.FPT University\2023_Semester_5\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net6.0\HappyNewYear.AssemblyInfo.cs
+D:\1.FPT University\2023_Semester_5\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net6.0\HappyNewYear.csproj.CoreCompileInputs.cache
+D:\1.FPT University\2023_Semester_5\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net6.0\HappyNewYear.dll
+D:\1.FPT University\2023_Semester_5\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net6.0\refint\HappyNewYear.dll
+D:\1.FPT University\2023_Semester_5\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net6.0\HappyNewYear.pdb
+D:\1.FPT University\2023_Semester_5\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net6.0\HappyNewYear.genruntimeconfig.cache
+D:\1.FPT University\2023_Semester_5\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net6.0\ref\HappyNewYear.dll
